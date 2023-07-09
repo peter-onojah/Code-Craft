@@ -1,0 +1,54 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.head{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(61, 10, 109);  
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.photo{
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  height: 400px;
+  width: 400px;
+}
+.know{
+  margin-top: 0px;
+  background-color: rgb(15, 142, 180);
+  padding: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.info{
+  margin-left: 20px;
+  text-align: justify;
+  margin-right: 20px;
+}
+.links{
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: blue;
+}
+.pic{
+  width: 100px;
+  border-radius: 100px;
+  float:left
+}
+.username{
+  font-weight: bold;
+}
+.review{
+  background-color:rgb(61, 10, 109);
+  color: white;
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+span{
+  color: rgb(228, 5, 161);
+}
